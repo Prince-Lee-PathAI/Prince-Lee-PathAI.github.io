@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 本人是一名热爱数学，用于探索计算机/人工智能交叉学科与应用。包括合著，我目前已经发表2篇学术论文，希望可以继续努力。
- <a href='https://scholar.google.com/citations?user=yRbHfPMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ <a href='https://scholar.google.com/citations?user=yRbHfPMAAAAJ'></a>。
 
 我的研究领域包括：
 - 
@@ -44,14 +44,14 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/infus2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Pan Huang<sup>*</sup>, `Chentao Li<sup>*</sup>`, Peng He. MamlFormer: Priori-experience guiding transformer network via manifold adversarial multi-modal learning for laryngeal histopathological grading. *Information Fusion*, 108, 102333. (JCR:Q1; IF:14.7)  
+-	`Pan Huang`, `Chentao Li`(共同第一作者), Peng He. MamlFormer: Priori-experience guiding transformer network via manifold adversarial multi-modal learning for laryngeal histopathological grading. *Information Fusion*, 108, 102333. (JCR:Q1; IF:14.7)  
 [[网页]](https://doi.org/10.1016/j.inffus.2024.102333)
 
 </div>
 </div>
 
 - Pan Huang, Hualiang Xiao, Peng He, `Chentao Li`. LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset. *IEEE Journal of Biomedical and Health Informatics*, (JCR:Q2; IF:6.7)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10460116)
 
 
 
