@@ -44,7 +44,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/infus2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Pan Huang<sup>*</sup>`, `Chentao Li<sup>*</sup>`, Peng He. MamlFormer: Priori-experience guiding transformer network via manifold adversarial multi-modal learning for laryngeal histopathological grading. *Information Fusion*, 108, 102333. (JCR:Q1; IF:14.7)  
+-	`Pan Huang*`, `Chentao Li*`, Peng He. MamlFormer: Priori-experience guiding transformer network via manifold adversarial multi-modal learning for laryngeal histopathological grading. *Information Fusion*, 108, 102333. (JCR:Q1; IF:14.7)  
 [[网页]](https://doi.org/10.1016/j.inffus.2024.102333)
 
 </div>
@@ -58,8 +58,8 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2024.06* 重庆市优秀毕业论文
-- *2023.06* 重庆市三好学生
+- *2024.06* 重庆市 优秀毕业论文
+- *2023.06* 重庆市 三好学生
 - *2022.05* 获得 美国大学生数学建模竞赛 `特等奖提名（2%）`
 
 
@@ -72,4 +72,4 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习经历
-- *2024.03 - 2024.06*, 明度智云(浙江) 科技有限公司，算法实习生
+- *2024.03 - 2024.06*, 明度智云(浙江) 科技有限公司, 算法实习生
