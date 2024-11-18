@@ -44,8 +44,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/infus2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Pan Huang^*, `Chentao Li^*`, Peng He. MamlFormer: Priori-experience guiding transformer network via manifold adversarial multi-modal learning for laryngeal histopathological grading. Information Fusion, 108, 102333. (JCR:Q1; IF:14.7)  
-[[网页]][(https://dx.doi.org/10.3390/s22093587](https://doi.org/10.1016/j.inffus.2024.102333))
+-	Pan Huang, `Chentao Li`, Peng He. MamlFormer: Priori-experience guiding transformer network via manifold adversarial multi-modal learning for laryngeal histopathological grading. Information Fusion, 108, 102333. (JCR:Q1; IF:14.7)  
+[[网页]](https://doi.org/10.1016/j.inffus.2024.102333)
 
 </div>
 </div>
