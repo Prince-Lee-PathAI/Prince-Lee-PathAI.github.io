@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
+title                    : "李晨韬"
 description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+repository               : "Prince-Lee-PathAI/Prince-Lee-PathAI.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "李晨韬"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "哥伦比亚大学"
+  location         : "美国 纽约"
+  employer         : #"？？？"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=yRbHfMAAAAJ"
+  email            : "???"
   uri              : 
   bitbucket        :
   codepen          :
