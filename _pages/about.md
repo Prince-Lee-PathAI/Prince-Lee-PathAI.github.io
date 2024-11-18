@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 本人是一名热爱数学，用于探索计算机/人工智能交叉学科与应用。包括合著，我目前已经发表2篇学术论文，希望可以继续努力。
- <a href='https://scholar.google.com/citations?user=yRbHfPMAAAAJ'></a>。
+ <a href='https://scholar.google.com/citations?user=yRbHfPMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 
