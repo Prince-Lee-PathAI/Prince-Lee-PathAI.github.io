@@ -9,7 +9,7 @@
 title                    : "李晨韬"
 description              : "多模态/大语言模型，可解释深度学习"
 repository               : "Prince-Lee-PathAI/Prince-Lee-PathAI.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "李晨韬"
   avatar           : "images/myfig.png"
-  bio              : "纽约大学"
+  bio              : "哥伦比亚大学"
   location         : "美国 纽约"
   employer         : #"？？？"
   pubmed           : 
