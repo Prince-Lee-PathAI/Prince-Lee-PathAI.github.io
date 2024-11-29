@@ -9,7 +9,7 @@
 title                    : "李晨韬"
 description              : "多模态/大语言模型，可解释深度学习"
 repository               : "Prince-Lee-PathAI/Prince-Lee-PathAI.github.io"
-google_scholar_stats_use_cdn : True
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
