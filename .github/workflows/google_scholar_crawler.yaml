@@ -1,10 +1,11 @@
 name: Get Citation Data
 
-on: 
+on:
+ workflow_dispatch:
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
-  workflow_dispatch:
+  
 
 
 
