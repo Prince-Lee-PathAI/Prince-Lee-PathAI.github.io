@@ -38,8 +38,16 @@ Research Interests：
 
 ### Journal
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/infus2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/infus2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+-	`Chentao Li`, Pan Huang. An End-to-end Knowledge-driven Multi-instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *Medical Image Analysis* (Under Review)
+</div>
+</div>
+
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/infus2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="2">
 
 -	`Pan Huang*`, `Chentao Li*`, Peng He. MamlFormer: Priori-experience guiding transformer network via manifold adversarial multi-modal learning for laryngeal histopathological grading. *Information Fusion*, 108, 102333. (JCR:Q1; IF:14.7)  
 [[Link]](https://doi.org/10.1016/j.inffus.2024.102333)
