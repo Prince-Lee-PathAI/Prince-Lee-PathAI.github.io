@@ -71,4 +71,11 @@ Research Interests：
 
 
 # 💻 Internship
+- *2025.1 - 2025.03*, Midea Group Co., Ltd., Robots Research Assistant
 - *2024.03 - 2024.06*, Mingdu Zhiyun (Zhejiang) Technology Co., Ltd., Algorithm Intern
+
+# 🔍 Reviewrs
+- Scientic Reports
+- Computer Methods and Programs in Biomedicine (CMPB)
+- Computerized Medical Imaging and Graphics (CMIG)
+- Discover Electronics
