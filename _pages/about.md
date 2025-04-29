@@ -15,8 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
 # Short Bio
 I am a Master student of Applied Mathematics at Columbia University. My research interests lie in the intersection of **Computer Vision** and **Machine Learning**. With co-authors, I have published two papers.
  <a href='https://scholar.google.com/citations?user=yRbHfPMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=cite"></a>. Now, I mainly focus on
@@ -30,15 +28,11 @@ Research Interests：
 - Representative Learning
 - Multi-modal Learning
 
-
-<span class='anchor' id='-xl'></span>
-
 # 🎓 Education
 - *2025.01 - 2026.06*, <a href="https://www.columbia.edu/"> Columbia University, Fu Foundation School of Engineering and Applied Science , Applied Mathematics Master 
 - *2024.09 - 2025.01*, <a href="https://www.nyu.edu/"> New York University, Tandon School of Engineering, Computer Engineering Master 
 - *2020.09 - 2024.06*, <a href="https://www.cqu.edu.cn/"> Chongqing University College of Mathematics and Statistics, Information and Computing Science，Chongqing, B.S.
- 
-<span class='anchor' id='-lwzl'></span>
+
 
 # 📝 Publications
 
@@ -59,7 +53,6 @@ Research Interests：
 ### Conference
 - *2023.12*, Chongqing Digital Medicine Academic Annual Conference, Poster
 
-<span class='anchor' id='-ryjx'></span>
 
 # 🏅 Hornors
 - *2024.06* Chongqing Excellent Graduation Thesis "Cervical Cancer Pathological Grading Technology Based on Conditional Adversarial Multimodal Learning" **Top 1.5%**
@@ -69,8 +62,6 @@ Research Interests：
 - *2022.05* MCM/ICM Finalist **Top 2%**
   (美国大学生数学建模竞赛 `特等奖提名（2%）`)
 
-
-<span class='anchor' id='-gzsx'></span>
 
 # 💻 Internship
 - *2024.03 - 2024.06*, Mingdu Zhiyun (Zhejiang) Technology Co., Ltd., Algorithm Intern
