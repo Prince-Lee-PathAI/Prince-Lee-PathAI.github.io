@@ -61,7 +61,7 @@ Research Interests：
 - *2023.12*, Chongqing Digital Medicine Academic Annual Conference, Poster
 
 
-# 🏅 Hornors
+# 🏅 Honors and Awards
 - *2024.06* Chongqing Excellent Graduation Thesis "Cervical Cancer Pathological Grading Technology Based on Conditional Adversarial Multimodal Learning" **Top 1.5%**
   (重庆市 优秀毕业论文 《基于条件对抗多模态学习的子宫颈癌病理分级技术研究》)
 - *2023.06* Annual Merit Student
