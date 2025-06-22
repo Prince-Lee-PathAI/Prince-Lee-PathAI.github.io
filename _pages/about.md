@@ -41,7 +41,7 @@ Research Interests：
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/hcfmil_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Chentao Li`, Pan Huang. An End-to-end Knowledge-driven Multi-instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *IEEE Transactions on Systems, Man, and Cybernetics* (Under Review)
+-	`Chentao Li`, Pan Huang. An End-to-end Knowledge-driven Multi-instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *IEEE Journal of Biomedical and Health Informatics* (Under Review)
 </div>
 </div>
 
