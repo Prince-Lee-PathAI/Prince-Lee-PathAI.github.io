@@ -17,7 +17,7 @@ redirect_from:
 
 # Short Bio
 I am a Master student of Applied Mathematics at Columbia University. My research interests lie in the intersection of **Computer Vision** and **Machine Learning**. With co-authors, I have published two papers
- <a href='https://scholar.google.com/citations?user=yRbHfPMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=cite"></a>. Now, I mainly focus on
+ <a href='https://scholar.google.com/citations?user=LIChdM8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=cite"></a>. Now, I mainly focus on
  Applications on Multi-instance Learning and Weakly/Self Supervised Learning in histopathology and medical image analysis.
 
 Research Interests：
