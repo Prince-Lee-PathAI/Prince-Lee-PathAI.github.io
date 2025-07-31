@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # Short Bio
-I am a Master student of Applied Mathematics at Columbia University. My research interests lie in the intersection of **Computer Vision** and **Machine Learning**. With co-authors, I have published two papers
+I am a Master student of Applied Mathematics at Columbia University. My research interests lie in the intersection of **AI for Healthcare** and **Medical Image Analysis**. With co-authors, I have published two papers
  <a href='https://scholar.google.com/citations?user=LIChdM8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=cite"></a>. Now, I mainly focus on
  Applications on Multi-instance Learning and Weakly/Self Supervised Learning in histopathology and medical image analysis.
 
@@ -41,7 +41,7 @@ Research Interests：
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/hcfmil_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Chentao Li`, Pan Huang. An End-to-end Knowledge-driven Multi-instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *IEEE Journal of Biomedical and Health Informatics* (Under Review)
+-	`Chentao Li`, Pan Huang. An End-to-end Knowledge-driven Multi-instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *IEEE Journal of Biomedical and Health Informatics* (Major Revision)
 </div>
 </div>
 
