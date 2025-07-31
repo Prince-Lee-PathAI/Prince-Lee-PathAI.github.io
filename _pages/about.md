@@ -38,7 +38,7 @@ Research Interests：
 
 ### Journal
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/hcfmil_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Major Revision</div><img src='images/hcfmil_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Chentao Li`, Pan Huang. An End-to-end Knowledge-driven Multi-instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *IEEE Journal of Biomedical and Health Informatics* (Major Revision)
@@ -75,7 +75,9 @@ Research Interests：
 - *2024.03 - 2024.06*, Mingdu Zhiyun (Zhejiang) Technology Co., Ltd., Algorithm Intern
 
 # 🔍 Reviewrs
+- Information Fusion
 - Scientic Reports
 - Computer Methods and Programs in Biomedicine (CMPB)
 - Computerized Medical Imaging and Graphics (CMIG)
 - Discover Electronics
+- diagnostics
