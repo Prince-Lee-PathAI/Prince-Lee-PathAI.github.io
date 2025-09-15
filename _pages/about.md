@@ -42,6 +42,7 @@ Research Interests：
 <div class='paper-box-text' markdown="1">
 
 -	`Chentao Li`, Pan Huang. Knowledge-driven Multiple Instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *IEEE Journal of Biomedical and Health Informatics* (JCR:Q1; IF:6.8)
+[[Link]](https://ieeexplore.ieee.org/document/11164288)
 </div>
 </div>
 
@@ -81,4 +82,5 @@ Research Interests：
 - Computerized Medical Imaging and Graphics (CMIG)
 - Discover Electronics
 - diagnostics
+
 
