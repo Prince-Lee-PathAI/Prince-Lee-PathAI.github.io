@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # Short Bio
-I am a Master student of Applied Mathematics at Columbia University. My research interests lie in the intersection of **AI for Healthcare** and **Medical Image Analysis**. With co-authors, I have published two papers
+I am a Master student of Applied Mathematics at Columbia University. My research interests lie in the intersection of **AI for Healthcare** and **Medical Image Analysis**. With co-authors, I have published three papers
  <a href='https://scholar.google.com/citations?user=LIChdM8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=cite"></a>. Now, I mainly focus on
  Applications on Multi-instance Learning and Weakly/Self Supervised Learning in histopathology and medical image analysis.
 
@@ -82,5 +82,6 @@ Research Interests：
 - Computerized Medical Imaging and Graphics (CMIG)
 - Discover Electronics
 - diagnostics
+
 
 
