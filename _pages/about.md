@@ -31,7 +31,7 @@ Research Interests：
 # 🎓 Education
 - *2025.01 - 2026.06*, <a href="https://www.columbia.edu/"> Columbia University, Fu Foundation School of Engineering and Applied Science , M.S. in Applied Mathematics, New York, USA
 - *2024.09 - 2025.01*, <a href="https://www.nyu.edu/"> New York University, Tandon School of Engineering,  M.S. in Computer Engineering, New York, USA
-- *2020.09 - 2024.06*, <a href="https://www.cqu.edu.cn/"> Chongqing University College of Mathematics and Statistics, , B.S. in Information and Computing Science，Chongqing, China
+- *2020.09 - 2024.06*, <a href="https://www.cqu.edu.cn/"> Chongqing University, College of Mathematics and Statistics, B.S. in Information and Computing Science，Chongqing, China
 
 
 # 📝 Publications
@@ -82,6 +82,7 @@ Research Interests：
 - Computerized Medical Imaging and Graphics (CMIG)
 - Discover Electronics
 - diagnostics
+
 
 
 
