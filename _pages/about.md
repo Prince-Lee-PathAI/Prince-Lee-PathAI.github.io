@@ -36,6 +36,16 @@ Research Interests：
 
 # 📝 Publications
 
+### ArXiv
+--- 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/C4MIL_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Chentao Li`, Behzad Bozorgtabar, Yifang Ping, Pan Huang, Jing Qin. Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation.
+[[Link]](https://arxiv.org/abs/2511.01304)
+</div>
+</div>
+
 ### Journal
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/hcfmil_2025.png' alt="sym" width="100%"></div></div>
@@ -55,7 +65,7 @@ Research Interests：
 </div>
 </div>
 
-- Pan Huang, Hualiang Xiao, Peng He, `Chentao Li`. LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset. *IEEE Journal of Biomedical and Health Informatics*, (JCR:Q2; IF:6.7)  
+- Pan Huang, Hualiang Xiao, Peng He, `Chentao Li` *et.al*. LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset. *IEEE Journal of Biomedical and Health Informatics*, (JCR:Q2; IF:6.7)  
 [[Link]](https://ieeexplore.ieee.org/abstract/document/10460116)
 
 ### Conference
@@ -82,6 +92,7 @@ Research Interests：
 - Computerized Medical Imaging and Graphics (CMIG)
 - Discover Electronics
 - diagnostics
+
 
 
 
