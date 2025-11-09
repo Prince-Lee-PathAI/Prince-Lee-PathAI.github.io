@@ -42,7 +42,7 @@ Research Interests：
 <div class='paper-box-text' markdown="1">
 
 -	`Chentao Li`, Behzad Bozorgtabar, Yifang Ping, Pan Huang, Jing Qin. Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation.
-[[Link]](https://arxiv.org/abs/2511.01304)
+[[paper]](https://arxiv.org/abs/2511.01304), [[code]](https://github.com/Prince-Lee-PathAI/PG-CIDL)
 </div>
 </div>
 
@@ -52,7 +52,7 @@ Research Interests：
 <div class='paper-box-text' markdown="1">
 
 -	`Chentao Li`, Pan Huang. Knowledge-driven Multiple Instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *IEEE Journal of Biomedical and Health Informatics* (JCR:Q1; IF:6.8)
-[[Link]](https://ieeexplore.ieee.org/document/11164288)
+[[paper]](https://ieeexplore.ieee.org/document/11164288), [[code]](https://github.com/Prince-Lee-PathAI/HCF-MIL)
 </div>
 </div>
 
@@ -60,13 +60,13 @@ Research Interests：
 <div class='paper-box-text' markdown="1">
 
 -	`Pan Huang*`, `Chentao Li*`, Peng He. MamlFormer: Priori-experience guiding transformer network via manifold adversarial multi-modal learning for laryngeal histopathological grading. *Information Fusion*, 108, 102333. (JCR:Q1; IF:15.5)  
-[[Link]](https://doi.org/10.1016/j.inffus.2024.102333)
+[[paper]](https://doi.org/10.1016/j.inffus.2024.102333)
 
 </div>
 </div>
 
 - Pan Huang, Hualiang Xiao, Peng He, `Chentao Li` *et.al*. LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset. *IEEE Journal of Biomedical and Health Informatics*, (JCR:Q2; IF:6.7)  
-[[Link]](https://ieeexplore.ieee.org/abstract/document/10460116)
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10460116), [[code]](https://github.com/Baron-Huang/LA-ViT)
 
 ### Conference
 - *2023.12*, Chongqing Digital Medicine Academic Annual Conference, Poster
@@ -92,6 +92,7 @@ Research Interests：
 - Computerized Medical Imaging and Graphics (CMIG)
 - Discover Electronics
 - diagnostics
+
 
 
 
