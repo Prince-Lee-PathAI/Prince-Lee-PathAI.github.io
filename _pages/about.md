@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # Short Bio
-I am a Master student of Applied Mathematics at Columbia University. My research interests lie in the intersection of **AI for Healthcare** and **Medical Image Analysis**. With co-authors, I have published 4 papers
+I am a final-year Master student of Applied Mathematics at Columbia University. My research interests lie in the intersection of **AI for Healthcare** and **Medical Image Analysis**. With co-authors, I have published 4 papers
  <a href='https://scholar.google.com/citations?user=LIChdM8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=cite"></a>. Now, I mainly focus on
  Applications on Multi-instance Learning and Weakly/Self Supervised Learning in histopathology and medical image analysis.
 
@@ -46,12 +46,20 @@ Research Interests：
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/LoClust_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Chentao Li`, Pan Huang. Prototype Instance-semantic Disentanglement with Low-rank Regularized Subspace Clustering for WSIs Explainable Recognition.
+[[paper]](https://arxiv.org/abs/2602.14501), [[code]](https://github.com/Prince-Lee-PathAI/PID-LRSC)
+</div>
+</div>
+
 ### Journal
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/hcfmil_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Chentao Li`, Pan Huang. Knowledge-driven Multiple Instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *IEEE Journal of Biomedical and Health Informatics* (JCR:Q1; IF:6.8)
+-	`Chentao Li`, Pan Huang, Jing Qin, Xin Luo. Knowledge-driven Multiple Instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading. *IEEE Journal of Biomedical and Health Informatics* (JCR:Q1; IF:6.8)
 [[paper]](https://ieeexplore.ieee.org/document/11164288), [[code]](https://github.com/Prince-Lee-PathAI/HCF-MIL)
 </div>
 </div>
@@ -92,6 +100,7 @@ Research Interests：
 - Computerized Medical Imaging and Graphics (CMIG)
 - Discover Electronics
 - diagnostics
+
 
 
 
