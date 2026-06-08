@@ -34,7 +34,7 @@ Research Interests：
 - *2020.09 - 2024.06*, <a href="https://www.cqu.edu.cn/"> Chongqing University, College of Mathematics and Statistics, B.S. in Information and Computing Science，Chongqing, China
 
 
-# 📝 Publications
+# 📝 Selected Publications
 
 ### ArXiv
 --- 
@@ -73,8 +73,6 @@ Research Interests：
 </div>
 </div>
 
-- Pan Huang, Hualiang Xiao, Peng He, `Chentao Li` *et.al*. LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset. *IEEE Journal of Biomedical and Health Informatics*, (JCR:Q2; IF:6.7)  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/10460116), [[code]](https://github.com/Baron-Huang/LA-ViT)
 
 ### Conference
 - *2023.12*, Chongqing Digital Medicine Academic Annual Conference, Poster
