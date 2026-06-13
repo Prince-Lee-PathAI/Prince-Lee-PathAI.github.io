@@ -41,8 +41,8 @@ Research Interests：
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/C4MIL_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Chentao Li`, Behzad Bozorgtabar, Yifang Ping, Pan Huang, Jing Qin. Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation.
-[[paper]](https://arxiv.org/abs/2511.01304), [[code]](https://github.com/Prince-Lee-PathAI/PG-CIDL)
+-	`Mingrui Ma*`, `Chentao Li*`, Pan Huang, Jing Qin. MacNet: An End-to-End Manifold-Constrained Adaptive Clustering Network for Interpretable Whole Slide Image Classification.
+[[paper]](https://arxiv.org/abs/2602.14509), [[code]](https://github.com/Prince-Lee-PathAI/MacNet)
 </div>
 </div>
 
@@ -75,7 +75,22 @@ Research Interests：
 
 
 ### Conference
-- *2023.12*, Chongqing Digital Medicine Academic Annual Conference, Poster
+--- 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/C4MIL_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Chentao Li`, Behzad Bozorgtabar, Yifang Ping, Pan Huang, Jing Qin. Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation.
+[[paper]](https://arxiv.org/abs/2511.01304), [[code]](https://github.com/Prince-Lee-PathAI/PG-CIDL)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/LoClust_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Chentao Li`, Pan Huang. Prototype Instance-semantic Disentanglement with Low-rank Regularized Subspace Clustering for WSIs Explainable Recognition.
+[[paper]](https://arxiv.org/abs/2602.14501), [[code]](https://github.com/Prince-Lee-PathAI/PID-LRSC)
+</div>
+</div>
 
 
 # 🏅 Honors and Awards
