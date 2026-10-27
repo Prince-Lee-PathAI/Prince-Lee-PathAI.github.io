@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # Short Bio
-I am a first-year Ph.D student at School of Nursing, The Hong Kong Polytechnic University. My research interests lie in the intersection of **AI for Healthcare** and **Medical Image Analysis**. With co-authors, I have published 4 papers
+I am a first-year Ph.D student at School of Nursing, The Hong Kong Polytechnic University, working with Prof. Jing Qin. My research interests lie in the intersection of **AI for Healthcare** and **Medical Image Analysis**. With co-authors, I have published 4 papers
  <a href='https://scholar.google.com/citations?user=LIChdM8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=cite"></a>. Now, I mainly focus on
  Applications on Multi-instance Learning and Explainable AI in histopathology and medical image analysis.
 
